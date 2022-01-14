@@ -50,6 +50,7 @@ public class Shape {
 /*
 	Shape:
 	variables:
+	s
 			name
 	Encapsulate the field
 	Add a constructor to set the filed
