@@ -7,8 +7,10 @@ public class Car {
     public double price;
 
     public Car (String brand){
+
         this.brand=brand;
     }
+
     public Car (String brand,String model){
         this(brand);
         this.model=model;
